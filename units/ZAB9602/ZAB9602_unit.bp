@@ -143,8 +143,8 @@ UnitBlueprint {
             'BUILTBYTIER3FACTORY AEON MOBILE AIR',
             'TRANSPORTBUILTBYTIER3FACTORY AEON MOBILE AIR',
         },
-        StorageEnergy = 0,
-        StorageMass = 320,
+        StorageEnergy = 800,
+        StorageMass = 160,
     },
     Footprint = {
         SizeX = 5,

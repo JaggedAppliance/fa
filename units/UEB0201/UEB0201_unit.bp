@@ -150,7 +150,7 @@ UnitBlueprint {
             'BUILTBYTIER2FACTORY UEF MOBILE LAND',
             'BUILTBYLANDTIER2FACTORY UEF MOBILE CONSTRUCTION',
         },
-        StorageEnergy = 0,
+        StorageEnergy = 800,
         StorageMass = 160,
     },
     Footprint = {

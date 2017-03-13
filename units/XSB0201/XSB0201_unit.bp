@@ -173,7 +173,7 @@ UnitBlueprint {
             'BUILTBYTIER2FACTORY SERAPHIM STRUCTURE LAND',
             'BUILTBYTIER2FACTORY SERAPHIM MOBILE LAND',
         },
-        StorageEnergy = 0,
+        StorageEnergy = 800,
         StorageMass = 160,
     },
     Footprint = {

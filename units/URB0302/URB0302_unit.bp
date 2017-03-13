@@ -148,7 +148,7 @@ UnitBlueprint {
             'BUILTBYTIER3FACTORY CYBRAN MOBILE AIR',
             'TRANSPORTBUILTBYTIER3FACTORY CYBRAN MOBILE AIR',
         },
-        StorageEnergy = 0,
+        StorageEnergy = 1600,
         StorageMass = 320,
     },
     Footprint = {

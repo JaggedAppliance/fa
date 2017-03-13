@@ -148,7 +148,7 @@ UnitBlueprint {
             'BUILTBYTIER2FACTORY CYBRAN STRUCTURE LAND',
             'BUILTBYTIER2FACTORY CYBRAN MOBILE LAND',
         },
-        StorageEnergy = 0,
+        StorageEnergy = 800,
         StorageMass = 160,
     },
     Footprint = {
