@@ -161,7 +161,7 @@ UnitBlueprint {
             'BUILTBYTIER2FACTORY SERAPHIM MOBILE AIR',
             'TRANSPORTBUILTBYTIER2FACTORY SERAPHIM MOBILE AIR',
         },
-        StorageEnergy = 400,
+        StorageEnergy = 600,
         StorageMass = 80,
     },
     Footprint = {

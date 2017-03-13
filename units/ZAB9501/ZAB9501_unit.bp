@@ -167,7 +167,7 @@ UnitBlueprint {
             'BUILTBYTIER2SUPPORTFACTORY AEON STRUCTURE LAND',
             'BUILTBYTIER2FACTORY AEON MOBILE LAND',
         },
-        StorageEnergy = 400,
+        StorageEnergy = 600,
         StorageMass = 80,
     },
     Footprint = {
