@@ -123,13 +123,13 @@ UnitBlueprint {
     },
     Economy = {
         AdjacentEnergyProductionMod = 2,
-        BuildCostEnergy = 1200,
-        BuildCostMass = 250,
+        BuildCostEnergy = 2400,
+        BuildCostMass = 120,
         BuildTime = 200,
         RebuildBonusIds = {
             'uab1105',
         },
-        StorageEnergy = 5000,
+        StorageEnergy = 3000,
     },
     General = {
         Category = 'Economy',
@@ -194,9 +194,9 @@ UnitBlueprint {
     StrategicIconSortPriority = 250,
     Weapon = {
         {
-            Damage = 1000,
+            Damage = 500,
             DamageFriendly = true,
-            DamageRadius = 5,
+            DamageRadius = 3,
             DamageType = 'Normal',
             DisplayName = 'Death Weapon',
             DummyWeapon = true,
