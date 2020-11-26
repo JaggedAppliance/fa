@@ -131,13 +131,13 @@ UnitBlueprint {
     },
     Economy = {
         AdjacentEnergyProductionMod = 2,
-        BuildCostEnergy = 1200,
+        BuildCostEnergy = 2500,
         BuildCostMass = 250,
         BuildTime = 200,
         RebuildBonusIds = {
             'ueb1105',
         },
-        StorageEnergy = 5000,
+        StorageEnergy = 7000,
     },
     General = {
         Category = 'Economy',
